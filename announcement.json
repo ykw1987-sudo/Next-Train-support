@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "id": "2026-08-12-03",
   "title": "維護通知",
   "message": "歡迎使用「即時到站」。如有任何問題或建議，歡迎透過 GitHub Issues 或 Email 聯絡我們。",
