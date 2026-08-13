@@ -5,6 +5,7 @@
   "message": "📲 即時到站 - 港鐵輕鐵\n免費查港鐵／輕鐵到站時間。",
   "type": "info",
   "display": "always",
+  "image_url": "https://raw.githubusercontent.com/ykw1987-sudo/MutPayDuoSmartCombo/main/promo_screenshot.png",
   "image_url_2": "https://raw.githubusercontent.com/ykw1987-sudo/MutPayDuoSmartCombo/main/promo_screenshot.PNG",
   "link_url": "https://apps.apple.com/hk/app/id6792757708",
   "link_title": "iOS 下載",
