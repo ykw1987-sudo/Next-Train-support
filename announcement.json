@@ -1,8 +1,14 @@
+（iOS + Android）
 {
-  "enabled": false,
+  "enabled": true,
   "id": "2026-08-12-03",
-  "title": "維護通知",
-  "message": "歡迎使用「即時到站」。如有任何問題或建議，歡迎透過 GitHub Issues 或 Email 聯絡我們。",
+  "title": "推介其他 App",
+  "message": "📲 即時到站 - 港鐵輕鐵\n免費查港鐵／輕鐵到站時間。",
   "type": "info",
-  "display": "always"
+  "display": "always",
+  "image_url_2": "https://raw.githubusercontent.com/ykw1987-sudo/MutPayDuoSmartCombo/main/promo_screenshot.PNG",
+  "link_url": "https://apps.apple.com/hk/app/id6792757708",
+  "link_title": "iOS 下載",
+  "link_url_2": "https://play.google.com/store/apps/details?id=你的包名",
+  "link_title_2": "分享給 Android 朋友"
 }
