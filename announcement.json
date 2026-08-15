@@ -2,7 +2,7 @@
   "enabled": true,
   "id": "2026-08-15-03",
   "title": "新加入功能",
-  "message": "1.點擊班次能查看路線詳情\n2.循環線順時針逆時針易混淆，往下一站站名更易明\n3.附近有車站，地圖即時帶您去，羅盤都不用點擊",
+  "message": "1.循環線順時針逆時針易混淆？顯示往下一站站名更易明！\n2.點擊班次能查看路線詳情，附近有車站不用點擊羅盤，地圖自動指引您",
   "type": "info",
   "display": "once",
   "image_url": "https://raw.githubusercontent.com/ykw1987-sudo/Next-Train-support/main/promo_icon.png",
