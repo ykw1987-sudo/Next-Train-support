@@ -1,15 +1,12 @@
 {
   "enabled": true,
-  "id": "2026-08-12-03",
-  "title": "推介其他 App",
-  "message": "📲 麥畀多: 至平組合\nMutPayDuo: SmartCombo。",
+  "id": "2026-08-15-01",
+  "title": "新加入功能",
+  "message": "📲 1.點擊班次能查看路線詳情\n2.循環線順時針逆時針易混淆，往下一站站名更易明\n",
   "type": "info",
-  "display": "always",
+  "display": "once",
   "image_url": "https://raw.githubusercontent.com/ykw1987-sudo/Next-Train-support/main/promo_icon.png",
   "image_url_2": "https://raw.githubusercontent.com/ykw1987-sudo/Next-Train-support/main/promo_screenshot.PNG",
   "image_url_3": "https://raw.githubusercontent.com/ykw1987-sudo/Next-Train-support/main/promo_screenshot_2.PNG",
-  "link_url": "https://apps.apple.com/hk/app/id6792757708",
-  "link_title": "iOS 下載",
-  "link_url_2": "https://play.google.com/store/apps/details?id=你的包名",
-  "link_title_2": "分享給 Android 朋友"
+
 }
