@@ -18,7 +18,7 @@
 歡迎使用「即時到站-港鐵輕鐵」App！如果你在使用過程中遇到任何問題、Bug 回報或有任何建議，歡迎透過以下方式聯絡我們：
 
 - **電子郵件 (Email)**：ykw1987@gmail.com
-- **GitHub Issues**：[點擊這裡回報問題](https://github.com/ykw1987-sudo/mtr-next-train-support/issues)
+- **GitHub Issues**：[點擊這裡回報問題](https://github.com/ykw1987-sudo/next-train-support/issues)
 
 ## 常見問題 (FAQ)
 - **Q: 為什麼資料更新會有一點延遲？**
